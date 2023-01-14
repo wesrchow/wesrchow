@@ -3,7 +3,7 @@
 📕 I'm a Computer Engineering student at UBC and tech hobbyist.\
 💻 I work with programming, 3D printing, electronics, drones, 3D design & animation and more.
 
-🛠️ You can check out my hardware related projects at my tech [Instagram](https://www.instagram.com/westechacc_/).\
+🛠️ You can check out my hardware related projects at my tech <a href="https://www.instagram.com/westechacc_/" target="_blank">Instagram</a>.\
 📄 For contact info and more about me you can find my resume [here](https://wesrchow.github.io/WesleyChowResume.pdf).
 
 
