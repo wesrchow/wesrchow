@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I'm Wes 👋
+
+📕 I'm a Computer Engineering student at UBC and tech hobbyist.\
+💻 I work with programming, 3D printing, electronics, drones, 3D design & animation and more
+
+🛠️ You can check out my hardware related projects on my tech [Instagram](https://www.instagram.com/westechacc_/).\
+📄 For more about me and contact info you can find my resume [here](https://wesrchow.github.io/WesleyChowResume.pdf).
+
+
 
 <!--
 **wesrchow/wesrchow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
