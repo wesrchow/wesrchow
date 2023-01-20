@@ -5,7 +5,7 @@
 💻 I work with programming, 3D printing, electronics, drones, 3D design & animation and more.
 
 \
-🛠️ You can check out my hardware-related and other projects at my [tech Instagram](https://www.instagram.com/westechacc_/) and [YouTube channel](https://www.youtube.com/@Wgesh8/).
+🛠️ You can check out my hardware-related and other projects on my [tech Instagram](https://www.instagram.com/westechacc_/) and [YouTube channel](https://www.youtube.com/@Wgesh8/).
 
 📄 For contact info and more about me you can find my resume [here](https://wesrchow.github.io/WesleyChowResume.pdf).
 
