@@ -1,8 +1,8 @@
 ## Hi, I'm Wes 👋
 
-📕 I'm a Computer Engineering student at UBC and tech hobbyist.
+📕 I'm a Computer Engineering student at UBC and a tech hobbyist.
 
-💻 I work with programming, 3D printing, electronics, drones, 3D design & animation and more.
+💻 I like working on electronics where hardware meets software: PCBs, embedded firmware, microcontroller IoT, FPGAs, and 3D printing.
 
 \
 🛠️ You can check out my hardware-related and other projects on my [tech Instagram](https://www.instagram.com/westechacc_/) and [YouTube channel](https://youtube.com/channel/UCFHSPUKcq9XzUEdgxALqFLg).
